@@ -104,18 +104,6 @@ Each order includes:
 •	Update product stock, price, description, and current price  
 •	Update the delivery status of placed orders    
 
-**GitHub Repository**  
-The source code for this project is hosted on GitHub:  
-https://github.com/SujaaShri/Ecommerce-Grocery_QuickMart    
-
-**Credits**  
-This project is a collaborative effort developed by a team of five members:  
-Team Members:  
-•	[Sujaa Shri S](https://github.com/SujaaShri)  
-•	[Ramya M](https://github.com/RAMYA-M-08)  
-•	[Mugeshwaran E](https://github.com/mugeshwaran954)  
-•	[Elakiya R](https://github.com/Elakiya-R31)  
-•	[Thanusha E](https://github.com/Thanusha1974)    
 
 
 **Conclusion**  
